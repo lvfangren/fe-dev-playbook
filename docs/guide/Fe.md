@@ -28,10 +28,8 @@ function jsonpCb (res) {
 }
 ```
 
-#### Chrome插件
+#### chrome浏览器开启跨域模式
 
-[Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=zh-CN)
-本质是给接口的response header中添加`Access-Control-Allow-Origin: *`, 底层原理是通过Chrome提供的Api来实现
 
 #### Node代理
 

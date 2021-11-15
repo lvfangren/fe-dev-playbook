@@ -13,7 +13,6 @@ Chrome快捷键和前面讲到的iterm2, VS Code快捷键几乎一样，事实�
 * `cmd` + `shift` + `N` 以无痕模式打开新窗口  
 * `cmd` + `w` 关闭当前窗口  
 * `cmd` + `N` 打开一个新的浏览器窗口  
-
 ## 插件
 
 Chrome的[插件商店](https://chrome.google.com/webstore/category/extensions?hl=zh-CN)的强大程度无与伦比，下面来介绍我们开发中经常用到的一些插件
@@ -27,4 +26,4 @@ Chrome的[插件商店](https://chrome.google.com/webstore/category/extensions?h
 * [Octotree](https://chrome.google.com/webstore/detail/bkhaagjahfmjljalopjnoealnfndnagc) 方便你查看github项目结构  
 * [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) 查看github文件时可以一键打开引入文件的路径  
 * [Allow-Control-Allow-Origin](https://chrome.google.com/webstore/detail/nlfbmbojpeacfghkpbjhddihlkkiljbi) 为不支持跨域请求的接口的响应头加Allow-Control-Allow-Origin: *  
-
+* [vimkey](https://github.com/Haojen/vimkey/)
