@@ -21,9 +21,7 @@
 
 ## 文档
 
-详细内容请查看[官方文档](http://fe.surge.sh/), 文档持续更新中...
-注意: 由于文档是部署在国外的[免费服务](http://surge.sh/)上，国内的网络打开也许会很慢，如果打不开可以挂 VPN 试试。
-
+详细内容请查看[官方文档](http://fe.surge.sh/)
 本文档将会分为以下章节
 
 - 安装配置使用强大的终端
@@ -55,37 +53,3 @@
 - 标题后不要直接跟下一级标题，需要文字过渡
 - 不要出现多余的空行
 - 代码块添加对应的语言标识，涉及到Shell命令的，前方加上$符号
-
-## 交流群
-
-如果你有什么其他的想法或者建议，可以扫码进入钉钉群详细沟通
-
-<div style="display:flex">
-<img src="https://res.wx.qq.com/op_res/rrhdxU0o2yUdgTjwgkAgO-CSFV-lArvMYzWzxl2SuvnKkcWECv7SXswEYjk2pPcDcL43r0kz_MIp_fsxPPqQ2Q" width="300">
-<img src="https://res.wx.qq.com/op_res/kWmJUok0vZk00qUGxVc9hceBtBTw8ohXkzmm54alPw_uqFEoZt0bWxHPAqHKFSJMrfPkKJZCVJauuZm4--hnrQ" width="300">
-</div>
-
-若微信二维码过期，请去 [ssr](https://github.com/ykfe/ssr) 项目获取最新二维码
-
-## 技术支持
-
-技术支持 By [地球上没有对手的 ssr 框架](https://github.com/ykfe/ssr)
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/zhangyuang"><img src="https://avatars3.githubusercontent.com/u/17424434?v=4" width="100px;" alt="LeonCheung"/><br /><sub><b>LeonCheung</b></sub></a><br /><a href="https://github.com/ykfe/fe-dev-playbook/commits?author=zhangyuang" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/jerryYuX"><img src="https://avatars2.githubusercontent.com/u/33367577?v=4" width="100px;" alt="jerryYu"/><br /><sub><b>jerryYu</b></sub></a><br /><a href="https://github.com/ykfe/fe-dev-playbook/commits?author=jerryYuX" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://github.com/fengyy51"><img src="https://avatars2.githubusercontent.com/u/23158071?v=4" width="100px;" alt="fe_shangcheng"/><br /><sub><b>fe_shangcheng</b></sub></a><br /><a href="https://github.com/ykfe/fe-dev-playbook/commits?author=fengyy51" title="Documentation">📖</a></td>
-    <td align="center"><a href="https://suanmei.github.io"><img src="https://avatars0.githubusercontent.com/u/19517557?v=4" width="100px;" alt="拾邑"/><br /><sub><b>拾邑</b></sub></a><br /><a href="https://github.com/ykfe/fe-dev-playbook/commits?author=suanmei" title="Documentation">📖</a></td>
-  </tr>
-</table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

@@ -1,12 +1,13 @@
 {
   "name": "fe-dev-playbook",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "打造舒适的前端开发环境",
   "bin": {
     "playbook": "index.js",
     "fe-dev-playbook": "index.js"
   },
   "scripts": {
+    "devs": "vitepress dev docs",
     "dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "docs:publish": "surge ./docs/.vuepress/dist fe.surge.sh",
@@ -29,9 +30,10 @@
     "@midwayjs/cli": "^1.2.36",
     "@midwayjs/cli-plugin-faas": "^1.2.72",
     "cross-env": "^7.0.3",
-    "eslint-config-standard-vue-ts": "^1.0.5",
-    "typescript": "^3.9.7",
     "optimize-css-assets-webpack-plugin": "5.0.4",
     "vuepress": "^1.0.2"
+  },
+  "dependencies": {
+    "vitepress": "^0.20.1"
   }
 }

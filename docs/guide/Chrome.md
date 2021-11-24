@@ -23,7 +23,10 @@ Chrome的[插件商店](https://chrome.google.com/webstore/category/extensions?h
 * [JSON Formatter](https://chrome.google.com/webstore/detail/bcjindcccaagfpapjjmafapmmgkkhgoa) 格式化JSON文件，让你在浏览器打开JSON文件时获得更愉悦的体验  
 * [React Developer Tools](https://chrome.google.com/webstore/detail/fmkadmapgofadopljbjfkapdkoienihi) 开发React应用时用的辅助工具，大部分人应该都装了  
 * [Vue.js devtools](https://chrome.google.com/webstore/detail/nhdogjmejiglipccpnnnanhbledajbpd) 同上，开发Vue应用时的辅助工具  
-* [Octotree](https://chrome.google.com/webstore/detail/bkhaagjahfmjljalopjnoealnfndnagc) 方便你查看github项目结构  
-* [OctoLinker](https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp) 查看github文件时可以一键打开引入文件的路径  
-* [Allow-Control-Allow-Origin](https://chrome.google.com/webstore/detail/nlfbmbojpeacfghkpbjhddihlkkiljbi) 为不支持跨域请求的接口的响应头加Allow-Control-Allow-Origin: *  
-* [vimkey](https://github.com/Haojen/vimkey/)
+* [vimkey](https://chrome.google.com/webstore/detail/vimkey/eeeandejdamjifbgmmmmonggidbccnnj) 页面控制的快捷键插件
+* [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj)修改网页请求头的工具
+
+## 参考
+
+[Chrome中文使用文档 !!较老](https://www.html.cn/doc/chrome-what/)
+[Chrome官方 !!推荐](https://developer.chrome.com/docs/devtools/)
